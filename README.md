@@ -1,2 +1,2 @@
-# DjangoBlog
-Blog created using course material from Udemy
+# DjangoBlogroll
+Exercises from the Udemy course, slated for later use in the RPi photo suite
